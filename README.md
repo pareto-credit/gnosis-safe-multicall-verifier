@@ -26,7 +26,16 @@ bun install
         "100000000"
       ]
     },
-    {...}
+    {
+      "to": "0x5678",
+      "methodSig": "approve(address,uint256)",
+      "value": 0,
+      "args": [
+        "0x54321",
+        "200000000"
+      ]
+    }
+  ]
 }
 ```
 
