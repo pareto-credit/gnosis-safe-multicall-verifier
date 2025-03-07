@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "to": "0x1234",
+      "methodSig": "transfer(address,uint256)",
+      "value": 0,
+      "args": [
+        "0x9876",
+        "1000000"
+      ]
+    }
+  ]
+}

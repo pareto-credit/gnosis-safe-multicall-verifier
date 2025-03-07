@@ -1,0 +1,14 @@
+{
+  "name": "gnosis-safe-verifier",
+  "module": "index.js",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "ethers": "v5"
+  }
+}
