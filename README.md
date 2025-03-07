@@ -7,7 +7,15 @@ by the Gnosis Safe app (In 'Advanced details' > 'data' field) and most important
 ## Installation
 1. Install Node.js https://nodejs.org/en/download
 2. Install bun https://bun.sh/docs/installation#installing
-3. Install dependencies with
+3. Clone the repository
+```bash
+git clone git@github.com:pareto-credit/gnosis-safe-multicall-verifier.git
+```
+4. Navigate to the project directory
+```bash
+cd gnosis-safe-multicall-verifier
+```
+5. Install dependencies with
 ```bash
 bun install
 ```
